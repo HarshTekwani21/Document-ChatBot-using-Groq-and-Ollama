@@ -3,6 +3,7 @@ Built using Streamlit for the web interface, SQLite for chat history storage, an
 text files, Word documents, Excel sheets, and CSV files.
 
 **Features**
+
 -Interactive Chat Interface: Users can chat with the bot in real-time. The chat history is displayed in an organized manner with user and bot messages clearly distinguished.
 -Document Loading and Parsing: Supports loading and parsing documents from a specified folder. Handles PDFs, text files, Word documents, Excel sheets, and CSV files.
 -Conversational Memory: Remembers previous conversations and provides contextually relevant responses.
