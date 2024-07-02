@@ -1,0 +1,7 @@
+To use the phi3 and llama LLM models, you must install the Ollama package.
+
+
+
+
+
+

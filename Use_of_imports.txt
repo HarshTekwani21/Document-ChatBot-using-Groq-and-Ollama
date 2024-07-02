@@ -1,0 +1,27 @@
+Usage of every requirements
+1. streamlit==1.13.0
+   -Usage: Streamlit is used to create the web application interface for the chat bot. It manages the layout, input fields, buttons, and other UI elements.
+2. langchain==0.0.18
+   - Usage: LangChain is used to handle the language model interactions, document processing, and creating chains for the chatbot.
+3. langchain-core==0.0.11
+   - Usage:Core components and utilities for LangChain, including document and memory handling.
+4. langchain-community==0.0.10
+   - Usage: Community-maintained tools and integrations for LangChain, such as additional embeddings and chat models.
+5. python-dotenv==0.21.0
+   - Usage:Loads environment variables from a `.env` file to manage configuration settings, such as API keys.
+6. sqlite3==3.38.5
+   -Usage: Provides an interface for interacting with SQLite databases to store chat history and caching.
+7. docx==0.2.4
+   - Usage: Reads and processes `.docx` files for extracting text content to be used by the chatbot.
+8. openpyxl==3.0.9
+   - Usage:Reads and processes Excel `.xlsx` files for extracting text content.
+9. fitz==0.0.1.dev2
+    - Usage: An alias for PyMuPDF, used for reading and processing PDF files.
+10. PyMuPDF==1.20.0
+    - Usage: Handles PDF file processing, extracting text from PDF pages.
+11. openai==0.10.5
+    - Usage: Provides integration with OpenAI's GPT models for generating responses and suggestions.
+  12. requests==2.31.0
+    - Usage:Makes HTTP requests, potentially used for fetching data or communicating with APIs.
+14. numpy==1.21.2
+    - Usage: Utilized for numerical operations, which may be necessary for certain data processing tasks.
